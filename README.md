@@ -26,8 +26,8 @@
   normalizeDate('YYYY-MM-DD WW')      
   // 2017-7-4 星期二
 
-  normalizeDate('YYYY-MM-DD WW hh:mm:ss',24)  
-  // 2017-7-4 星期二 17:42:45
+  normalizeDate('YYYY-MM-DD WW hh:mm:ss')  
+  // 2017-7-4 星期二 05:42:45
 
   normalizeDate('YYYY年MM月DD日')     
   // 2017-7-4
