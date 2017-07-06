@@ -12,7 +12,7 @@
   // 2017 07 04 星期二
   
   normalizeDate('YYYYMMDDhhmmss)  
-  // 2017/07/04174245
+  // 20170704174245
 
   normalizeDate('YYYY/MM/DD')    
   // 2017/07/04
