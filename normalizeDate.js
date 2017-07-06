@@ -87,4 +87,3 @@
     global.Format = Format;
 })(window)
 
-asdasd
