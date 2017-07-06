@@ -1,3 +1,4 @@
+
 ;(function (global){
     var Format = {
         date :function(){
@@ -85,6 +86,7 @@
     }
     
     global.Format = Format;
+    
 })(window)
 
 
